@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/albin/Desktop/Documents/GitHub/ALGORITMOS/UVAS DEL MAL/UVA_119/greedy-gift-givers-119-AlejandroMamaniAndia199802/main.cpp
+iostream
+-
+string
+-
+map
+-
+
